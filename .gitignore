@@ -1,0 +1,10 @@
+.DS_Store
+
+._*
+
+.Trashes
+
+logs
+*.log
+
+node_modules
